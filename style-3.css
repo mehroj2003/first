@@ -1,0 +1,149 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+}
+ 
+
+
+
+.container-6{
+    width: 100%;
+    height: 150px;
+    background-color: #002F34;
+ 
+}
+.container-6 .container-6-box {
+    width: 60%;
+    height: 150px;
+  
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.container-6 .container-6-box .box-img{
+    height: 130px;
+    width: 130px;
+    margin: auto 0;
+ 
+                        
+
+}
+.container-6 .container-6-box .h1{
+    width: 50%;
+    height: 20px;
+ 
+    color: white;
+    
+   
+}
+.container-6 .container-6-box .butten{
+    width: 170px;
+    height: 40px;
+    color: #002F34;
+    border:1px solid #002F34;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    border-radius: 7px;
+
+
+  
+}
+.container-6 .container-6-box .butten #ww1{
+    color: #002F34;
+    margin: 0 auto;
+    cursor: pointer;
+    cursor: grabbing;
+}
+.container-7{
+    width: 100%;
+    height: 300px;
+    background-color: #CBF7EE;
+  
+   
+}
+.container-7 img{
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    display: block;
+
+}
+.paragrph{
+    width: 60%;
+    height: 150px;
+    margin: 0 auto;
+    font-family: serif;
+}
+
+.container-8{
+    width: 100%;
+    height: 300px;
+    background-color: #F2F4F5;
+
+}
+.container-8 .image img{
+    width: 130px;
+    height: 130px;
+    margin-top: 50px;
+    margin-left: 150px;
+
+     
+}
+.paragrph-2{
+    width: 80%;
+    height: 20px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.container-19{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    display: inline-block;
+ 
+}
+  
+.container-19 .content-1{
+    width: 250px;
+    height: 350px;
+  
+    margin-left: 15%;
+    margin-top: 50px;
+    display: flex;
+     display: inline-block;
+     
+ 
+}
+.container-19 .content-1 ul li a{
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 20px;
+    display: block;
+    margin-top: 20px;
+    color:  #002F34;
+}
+.container-19 .we{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    display: inline-block;
+    margin-top: 20px;
+}
+ 
+.container-19 .wr{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+ .kl{
+    width: 20px;
+   height: 10px;
+ }
